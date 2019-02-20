@@ -95,7 +95,9 @@ client.on('ready', () => {
 
     member.guild.channels.get('545994616667635762').send("<@"+member.id+">\n",{embed: embedwelcomepersonalised});
 });
-
+client.on('error', (err) => {
+   console.log(err.message)
+});
 
 
  client.login(process.env.BOT_TOKEN);
