@@ -84,7 +84,7 @@ client.on('ready', () => {
      "fields": [
        {
          "name": "󠀀󠀀󠀀󠀀 󠀀",
-         "value": "Hiya, "+member.user.tag+"\nPlease head over to <#545984811391647787> and have a read, maybe check out <#545989826923724800> while you're there!\n\nOnce you're ready, ping an <@&545586525426155541> and confirm that you've read the rules and agree to follow them. \n\n(You can also ask a Moderator to assign you roles) "
+         "value": "Hiya, "+member.user.username+"\nPlease head over to <#545984811391647787> and have a read, maybe check out <#545989826923724800> while you're there!\n\nOnce you're ready, ping an <@&545586525426155541> and confirm that you've read the rules and agree to follow them. \n\n(You can also ask a Moderator to assign you roles) "
        },
        {
          "name": "󠀀\n󠀀󠀀We hope you enjoy your time here!     <:transheart:546015841225932800>",
