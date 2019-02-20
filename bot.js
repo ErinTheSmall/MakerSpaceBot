@@ -102,6 +102,4 @@ client.on('error', (err) => {
 
 
  client.login(process.env.BOT_TOKEN);
- client.user.setStatus('invisible')
-  .then(console.log)
-  .catch(console.error);
+
