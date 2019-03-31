@@ -93,7 +93,7 @@ const spacepurge = {
      message.channel.send({ embed: embedroles });
    } else if (message.content.startsWith("!embedwelcome")) {
      message.channel.send({ embed: embedwelcome });
-   } else if (message.content.startsWith("!embedwelcome")) {
+   } else if (message.content.startsWith("!spacepurge")) {
      message.channel.send({ spacepurge });
  }
  });
