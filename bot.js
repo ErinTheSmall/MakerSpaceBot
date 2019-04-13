@@ -67,7 +67,9 @@ client.on('ready', () => {
      message.channel.send({ embed: embedroles });
    } else if (message.content.startsWith("!embedwelcome")) {
      message.channel.send({ embed: embedwelcome });
-   } else if (message.content.startsWith("!spacepurge")) {
+   } else if (message.content.startsWith("Erin")) {
+      message.channel.send('Helo, that me');
+    } else if (message.content.startsWith("!spacepurge")) {
      message.channel.send(`.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
 
 .　　　　　　　　　　　　　.　　　ﾟ　  　　　.　　　　　　　　　　　　　.
