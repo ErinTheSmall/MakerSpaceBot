@@ -70,7 +70,7 @@ client.on('ready', () => {
    } else if (message.content.includes("Erinbot")) {
       message.channel.send('Helo, that me');
    } else if (message.content.includes(">MeltMaya")) {
-      message.channel.send(':MeltMaya:');
+      message.channel.send('<:MeltMaya:566932103044923392>');
    } else if (message.content.startsWith("!spacepurge")) {
       message.channel.send(`.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
 
