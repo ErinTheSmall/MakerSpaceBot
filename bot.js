@@ -69,8 +69,8 @@ client.on('ready', () => {
      message.channel.send({ embed: embedwelcome });
    } else if (message.content.includes("Erinbot")) {
       message.channel.send('Helo, that me');
-   } else if (message.content.includes(">MeltMaya")) {
-      message.channel.send('<:MeltMaya:566932103044923392>');
+   } else if (message.content.includes("!meltmaya")) {
+      message.channel.send('<@&539470724222681154><:MeltMaya:566932103044923392><:MeltMaya:566932103044923392><:MeltMaya:566932103044923392><:MeltMaya:566932103044923392><:MeltMaya:566932103044923392><:MeltMaya:566932103044923392>');
    } else if (message.content.startsWith("!spacepurge")) {
       message.channel.send(`.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
 
