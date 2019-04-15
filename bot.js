@@ -70,7 +70,7 @@ client.on('ready', () => {
    } else if (message.content.includes("Erinbot")) {
       message.channel.send('Helo, that me');
    } else if (message.content.includes("!meltmaya")) {
-      message.channel.send('<@&539470724222681154><:MeltMaya:566932103044923392><:MeltMaya:566932103044923392><:MeltMaya:566932103044923392><:MeltMaya:566932103044923392><:MeltMaya:566932103044923392><:MeltMaya:566932103044923392>');
+      message.channel.send('<@&539470724222681154>https://imgur.com/RIiVFEr');
    } else if (message.content.startsWith("!spacepurge")) {
       message.channel.send(`.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
 
