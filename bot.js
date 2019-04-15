@@ -6,6 +6,8 @@ client.on('ready', () => {
  });
 
 
+var pats = ["https://tenor.com/view/charlotte-pat-blush-embarrassed-shy-gif-5081286", "https://files.mastrchef.rocks/src/gif/pats/8FE2DCBF.gif", "https://imgur.com/RIiVFEr", "https://tenor.com/view/pat-pat-on-head-gif-12018857", "https://i.redd.it/1ljjsdz1sas21.gif", "https://media1.tenor.com/images/5acabebf2ee0e1e7f22afff644943cad/tenor.gif?itemid=12649717", "https://tenor.com/view/headpat-pat-anime-gif-10092582", "https://tenor.com/view/pat-anime-gif-7453915"];
+
  const embedroles = {
    "color": 16765404,
    "thumbnail": {
@@ -70,7 +72,8 @@ client.on('ready', () => {
    } else if (message.content.includes("Erinbot")) {
       message.channel.send('Helo, that me');
    } else if (message.content.includes("!meltmaya")) {
-      message.channel.send('<@&539470724222681154>https://imgur.com/RIiVFEr');
+     var randomPat = pats[Math.floor(Math.random() * pats.length)];
+      message.channel.send('<@&539470724222681154>', randomPat);
    } else if (message.content.startsWith("!spacepurge")) {
       message.channel.send(`.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
 
