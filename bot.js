@@ -6,7 +6,7 @@ client.on('ready', () => {
  });
 
 
-var pats = ["https://tenor.com/view/charlotte-pat-blush-embarrassed-shy-gif-5081286", "https://files.mastrchef.rocks/src/gif/pats/8FE2DCBF.gif", "https://imgur.com/RIiVFEr", "https://tenor.com/view/pat-pat-on-head-gif-12018857", "https://i.redd.it/1ljjsdz1sas21.gif", "https://media1.tenor.com/images/5acabebf2ee0e1e7f22afff644943cad/tenor.gif?itemid=12649717", "https://tenor.com/view/headpat-pat-anime-gif-10092582", "https://tenor.com/view/pat-anime-gif-7453915"];
+var pats = ["https://tenor.com/view/charlotte-pat-blush-embarrassed-shy-gif-5081286", "https://files.mastrchef.rocks/src/gif/pats/8FE2DCBF.gif", "https://imgur.com/RIiVFEr", "https://tenor.com/view/pat-pat-on-head-gif-12018857", "https://i.redd.it/1ljjsdz1sas21.gif", "https://media1.tenor.com/images/5acabebf2ee0e1e7f22afff644943cad/tenor.gif?itemid=12649717", "https://tenor.com/view/headpat-pat-anime-gif-10092582", "https://tenor.com/view/pat-anime-gif-7453915", "https://files.mastrchef.rocks/src/gif/pats/1F514315.gif", "https://files.mastrchef.rocks/src/gif/pats/6A7284F9.gif", "https://files.mastrchef.rocks/src/gif/pats/7E2D6445.gif", "https://files.mastrchef.rocks/src/gif/pats/6AF79836.gif", "https://files.mastrchef.rocks/src/gif/pats/BE401C16.gif", "https://files.mastrchef.rocks/src/gif/pats/E5CEFC90.gif", "https://files.mastrchef.rocks/src/gif/pats/EF065C8B.gif", "https://files.mastrchef.rocks/src/gif/pats/F0352BB4.gif", "https://files.mastrchef.rocks/src/gif/pats/F4A01C5A.gif", "https://files.mastrchef.rocks/src/gif/pats/F99F63C0.gif"];
 
  const embedroles = {
    "color": 16765404,
